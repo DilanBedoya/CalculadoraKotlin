@@ -27,4 +27,5 @@ El programa tiene las siguientes opciones:
    ```bash
    kotlinc -script calculadora.kt
 ## Capturas
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/8ca88565-c38f-4e07-9b39-328ed06cb82d)
+
